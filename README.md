@@ -7,7 +7,7 @@ paper: https://arxiv.org/pdf/2312.07327.pdf
   链接：https://pan.baidu.com/s/1-_XwzUb8w-UMupa_U6aWnw 提取码：u7gu
 
 Cite:
-Jian Zhu, Yu Cui, Zhangmin Huang, Xingyu Li, Lei Liu(*), Lingfang Zeng (*), Li-Rong Dai. Adaptive Confidence Multi-View Hashing for Multimedia Retrieval. 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 7900-7904.
+Jian Zhu, Yu Cui, Zhangmin Huang, Xingyu Li, Lei Liu(\*), Lingfang Zeng (\*), Li-Rong Dai. Adaptive Confidence Multi-View Hashing for Multimedia Retrieval. 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 7900-7904.
 
 ## Thanks and Reference
   @inproceedings{zhu2024adaptive,
