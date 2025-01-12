@@ -6,13 +6,15 @@ paper: https://arxiv.org/pdf/2312.07327.pdf
 ## Dataset(BSTH,Lei Zhu)
   链接：https://pan.baidu.com/s/1-_XwzUb8w-UMupa_U6aWnw 提取码：u7gu
 
-
+Cite:
+Jian Zhu, Yu Cui, Zhangmin Huang, Xingyu Li, Lei Liu(*), Lingfang Zeng (*), Li-Rong Dai. Adaptive Confidence Multi-View Hashing for Multimedia Retrieval. 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 7900-7904.
 
 ## Thanks and Reference
-  @inproceedings{BSTH2022,   
-  &nbsp;&nbsp;&nbsp;&nbsp;title={Bit-aware Semantic Transformer Hashing for Multi-modal Retrieval},   
-  &nbsp;&nbsp;&nbsp;&nbsp;author={Tan, Wentao and Zhu, Lei and Guan, Weili and Li, Jingjing and Cheng, Zhiyong},   
-  &nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},   
-  &nbsp;&nbsp;&nbsp;&nbsp;pages={982--991},   
-  &nbsp;&nbsp;&nbsp;&nbsp;year={2022}   
- }
+  @inproceedings{zhu2024adaptive,
+  title={Adaptive Confidence Multi-View Hashing for Multimedia Retrieval},
+  author={Zhu, Jian and Cui, Yu and Huang, Zhangmin and Li, Xingyu and Liu, Lei and Zeng, Lingfang and Dai, Li-Rong},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={7900--7904},
+  year={2024},
+  organization={IEEE}
+}
